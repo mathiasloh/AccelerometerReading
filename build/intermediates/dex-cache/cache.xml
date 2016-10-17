@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e27df7ac66512551bdf8ffe418dc44a966086505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_eb2cf4c8b6cc8c59f167bd8c00c5a95e831ea1e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_20b79d73786285bd54126c1386c8d291f06caa41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8952f286dea29f573860bf6e045b5f642b2144">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c7e2e100b5fc6851fe8a5ad7c745836f87f5014/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2e71f21b366b80d4812586ca4682a881f807547">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e1adaf11b49e0ba9687e123ffd07970bb49f3726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_91635de9412beafeb9276fc76d13a6c43a95d69d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_d6f7904b1c8b8067b1fa31264aa213d5be97dfff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e775c988d321b9659f5f9495072cb6d32fd50ad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/libs/achartengine-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="831c027231c24a94b2b115388fc3d927a437097c">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/2/achartengine-1.2.0_44a50a3fb38aa5ff490fe67294d0cd47ea493e48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_03d9daa8ebdc5d5a46e2e66ceffdbf791bb8c01e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_fe6a34ca4128d4606a81623cc6a63e7be6400b6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_1a3b8cbc186345507607b1760f8a5ef8f5ac6a99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_b680e9e956fcd5b0c30db3e9bc26d7ea8da4e5f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_98f02bc5a3d91bb1a8ecadeae85193fcc42e92f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_4f96d7ff1aee33a4dc2a25022fab00d003fd691a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_b9bed3a673a07aff6a410031e9814c6a9f31c5b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b796da3aed967b04be841561e40acc9df4e4cdae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/mathiasloh/AndroidStudioProjects/AccelerometerReadings/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_cf71f903f93e92808d8734033cac8fb3461ef64c/classes.dex" />
+    </item>
+
+</items>
